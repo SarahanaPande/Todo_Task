@@ -1,4 +1,4 @@
-"""# To-Do App
+# To-Do App
 
 A simple task-tracking web application built with Django. It allows users to create tasks, view all tasks on a single page, edit task details, mark tasks as completed, and delete tasks when they are no longer needed. All task data is stored in a local SQLite database, so no additional database setup is required.
 
@@ -197,4 +197,3 @@ http://127.0.0.1:8080/
 ```html
 <input type="text" value="{{ task_data.Title }}">
 ```
-"""
